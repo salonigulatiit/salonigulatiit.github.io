@@ -1,0 +1,184 @@
+*{ 
+    margin: 0px;
+    padding: 0px;
+}
+html,body{
+    margin: 0px;
+    padding: 0px;
+    
+    color: black;
+    font-size: 16px;
+
+}
+.container{
+
+    height: 100vh;
+    width: 100%;
+   
+}
+.slider{
+
+    height: 100vh;
+    width: 100%;
+    background-image: url('images/LayingFoundations.jpg')  ;
+  
+    background-attachment: fixed;
+    background-size: cover;
+    opacity: 0.;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+
+}
+.slider3{
+
+    height: 100vh;
+    width: 100%;
+    background-image: url('images/features-bg.jpg')  ;
+  
+    background-attachment: fixed;
+    background-size: cover;
+    opacity: 0.;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+
+}
+
+.slider4{
+
+    height: 100vh;
+    width: 100%;
+    background-image: url('images/about-bg.jpg')  ;
+  
+    background-attachment: fixed;
+    background-size: cover;
+    opacity: 0.;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+
+}
+
+
+.slider2{
+
+    height: 100vh;
+    width: 100%;
+    background-image: url('images/ITServices.jpg')  ;
+  
+    background-attachment: fixed;
+    background-size: cover;
+    opacity: 0.;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+
+}
+
+.slider h1{
+color: white;
+font-size: 60px;
+position: relative;
+top: 20%;
+left: 15%;
+    
+}
+header{
+    height: 70px;
+    width: 100%;
+  clear: both;  
+    
+}
+.logo{
+    height: 70px;
+    width: 25%;
+    line-height: 70px;
+    float: left;
+
+   
+}
+.logo img{
+    margin: 6% 0 0 60%;
+}
+
+.menubar{
+    height: 70px;
+    width: 75%;
+    float: right;
+   
+}
+.menubar nav ul{
+   
+    list-style: none;
+    
+    padding-top: 30px;
+    margin-left: 45%;
+}
+.menubar nav ul li {
+   
+display: inline;
+text-decoration: none;
+padding: 15px;
+font-family: 'Oswald', sans-serif;
+
+   
+}
+.menubar nav ul li a{
+color: white;
+font-size: 16px;
+text-decoration: none;
+
+}
+.info{
+    height: auto;
+    min-height: 200px;
+    width: 100%;
+    background-color: aliceblue;
+}
+.info h1{
+   font-size: 40px;
+   color: brown;
+   text-align: center;
+   text-transform: capitalize;
+}
+.info p{
+    font-size: 18px;
+    color: black;
+    text-align: justify;
+    text-transform: capitalize;
+    padding: 5px 40px 0px 40px;
+    font-family: 'Oswald', sans-serif;
+ }
+
+ .info h1{
+    font-size: 40px;
+    color: brown;
+    text-align: center;
+    text-transform: capitalize;
+ }
+ .info p{
+     font-size: 18px;
+     color: black;
+     text-align: justify;
+     text-transform: capitalize;
+     padding: 5px 40px 0px 40px;
+     font-family: 'Oswald', sans-serif;
+  }
+
+
+  .info p{
+    font-size: 18px;
+    color: black;
+    text-align: justify;
+    text-transform: capitalize;
+    padding: 5px 40px 0px 40px;
+    font-family: 'Oswald', sans-serif;
+ }
+
+ .info h1{
+    font-size: 40px;
+    color: brown;
+    text-align: center;
+    text-transform: capitalize;
+ }
+ .info p{
+     font-size: 18px;
+     color: black;
+     text-align: justify;
+     text-transform: capitalize;
+     padding: 5px 40px 0px 40px;
+     font-family: 'Oswald', sans-serif;
+  }
