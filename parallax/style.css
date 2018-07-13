@@ -1,0 +1,83 @@
+body, html{
+    margin: 0px;
+    height: 100%;
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+   
+    color:#666;
+   }
+   .img1, .img2, .img3
+   {
+
+    position: relative;
+    opacity: 0.7;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+
+
+   }
+  
+
+
+   .section
+   {
+     padding: 15px 20px;
+     text-align: center;
+ 
+    }
+    .section-light
+    {
+        
+     background-color: aqua;
+
+
+    }
+    .section-dark
+    {
+   background-color: beige;
+
+    }
+  .text
+  {
+
+position: absolute;
+text-align: center; 
+color: black;
+font-size: 27px;
+margin-top: 200px;
+margin-left:450px; 
+}
+
+   .img1
+   {
+    background-image: url("img 1.jpeg");
+    min-height: 100%;
+    background-size: cover;
+    
+   
+   
+   }
+   .img2
+   {
+    background-image: url("img 2.jpeg");
+    min-height: 400px;
+    background-size: cover;
+   
+   }
+   .img3
+   {
+    background-image: url("IMG4.jpeg");
+    min-height: 400px;
+    background-size: cover;
+   
+   }
+   .img1
+   {
+    background-image: url("img 1.jpeg");
+    min-height: 100%;
+    background-size: cover;
+   
+   }
